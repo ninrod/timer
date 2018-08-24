@@ -10,7 +10,7 @@
 - activate the environment `source bin/activate`
 - issue `make`
 
-this will spin up a countdown from 60sec to 0.
+this will spin up a countdown from 5 sec to 0.
 
 ## credits
 
