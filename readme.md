@@ -1,8 +1,8 @@
-# configuration for termdown
+# Configuration for Termdown
 
 * just a simple configuration for the [termdown](https://github.com/trehn/termdown) project.
  
-## 
+## instructions
 
 - clone this repo
 - create a virtual env `python[3] -m venv .`
