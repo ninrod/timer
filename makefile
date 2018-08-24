@@ -1,2 +1,2 @@
 go:
-	termdown 5 && echo time is up!
+	termdown 5 && eog time-is-up.jpg
