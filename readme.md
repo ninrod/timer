@@ -9,3 +9,9 @@
 - create a  virtual env: `pip install -r requirements.txt`
 - activate the environment `source bin/activate`
 - issue `make`
+
+this will spin up a countdown from 60sec to 0.
+
+## credits
+
+All credit goes to [Torsten Rehn](https://github.com/trehn).
