@@ -5,7 +5,7 @@
 ## instructions
 
 - clone this repo
-- create a virtual env `python[3] -m venv .`
+- create a virtual env `python -m venv .`
 - create a  virtual env: `pip install -r requirements.txt`
 - activate the environment `source bin/activate`
 - issue `make`
