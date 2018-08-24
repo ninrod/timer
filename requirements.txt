@@ -1,0 +1,9 @@
+certifi==2018.4.16
+click==6.7
+pipenv==2018.7.1
+pyfiglet==0.7.5
+python-dateutil==2.7.3
+six==1.11.0
+termdown==1.14.1
+virtualenv==16.0.0
+virtualenv-clone==0.3.0
