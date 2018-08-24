@@ -1,2 +1,2 @@
 go:
-	termdown 5 && eog time-is-up.jpg
+	termdown 5 && cat clock.txt
