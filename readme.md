@@ -6,8 +6,8 @@
 
 - clone this repo
 - create a virtual env `python -m venv .`
-- create a  virtual env: `pip install -r requirements.txt`
 - activate the environment `source bin/activate`
+- create a  virtual env: `pip install -r requirements.txt`
 - issue `make`
 
 this will spin up a countdown from 5 sec to 0.

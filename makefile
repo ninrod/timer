@@ -9,3 +9,8 @@ go:
 10min:
 	termdown $$((10 * 60 )) && cat clock.txt
 
+py-venv:
+	python -m venv . && source bin/activate
+
+pip:
+	pip install -r requirements.txt
